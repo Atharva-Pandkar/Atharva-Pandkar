@@ -41,7 +41,7 @@
 
 <p align="center">
 <a href="https://github.com/Atharva-Pandkar">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=atharva-pandkar&hide=prs,contribs&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Atharva-Pandkar&hide=prs,contribs&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
 </a>
 </p>
 
