@@ -21,7 +21,7 @@
 <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/-Bootstrap-38B2AC?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/-Computer_Vision-38B2AC?style=for-the-badge&logo=ComputerVision&logoColor=white)
 <br>
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
@@ -29,12 +29,12 @@
 ![PyTorch](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Sentiment Analysis](https://img.shields.io/badge/-GraphQL-0078D6?style=for-the-badge&logo=graphql&logoColor=ffffff)
-![NLP](https://img.shields.io/badge/-Unity-6082B6?style=for-the-badge&logo=unity&logoColor=ffffff)
+![Sentiment Analysis](https://img.shields.io/badge/-Sentiment_Analysis-0078D6?style=for-the-badge&logo=SentimentAnalysis&logoColor=ffffff)
+![NLP](https://img.shields.io/badge/-NLP-6082B6?style=for-the-badge&logo=NLP&logoColor=ffffff)
 <br>
-![Algorithms](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![ML](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
-![AI](https://img.shields.io/badge/-vim-4EA94B?style=for-the-badge&logo=vim&logoColor=000)
+![Algorithms](http://img.shields.io/badge/-Algorithms-007ACC?style=for-the-badge&logo=Algorithms&logoColor=ffffff)
+![ML](http://img.shields.io/badge/-ML-0078D6?style=for-the-badge&logo=ML&logoColor=ffffff)
+![AI](https://img.shields.io/badge/-AI-4EA94B?style=for-the-badge&logo=AI&logoColor=000)
 <br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
