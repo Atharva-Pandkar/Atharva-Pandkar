@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Atharva-Pandkar?tab=repositories)
 
-- 📫 You can reach me at **pandkar.t.atharva@gmail.com**
+- 📫 You can reach me at **pandkar.a@northeastern.edu**
 
  
 	
-### 🛠 &nbsp;Languages and Tools I'm familiar with
+### 🛠 &nbsp; Languages and Tools I'm familiar with
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -50,7 +50,7 @@
 
 <p>
 <!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="mailto:pandkar.t.atharva@gmail.com"><img src="https://img.shields.io/badge/-pandkar.t.atharva@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:pandkar.a@northeastern.edu"><img src="https://img.shields.io/badge/-pandkar.a@northeastern.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/atharva-pandkar"><img src="https://img.shields.io/badge/-Atharva Pandkar-1877F2?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p> -->
