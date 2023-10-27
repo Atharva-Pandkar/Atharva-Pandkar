@@ -36,7 +36,6 @@
 ![ML](http://img.shields.io/badge/-ML-0078D6?style=for-the-badge&logo=ML&logoColor=ffffff)
 ![AI](https://img.shields.io/badge/-AI-4EA94B?style=for-the-badge&logo=AI&logoColor=000)
 <br/>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
