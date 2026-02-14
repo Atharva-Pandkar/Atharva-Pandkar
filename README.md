@@ -20,7 +20,20 @@
 
 ---
 
-## About Me
+## Profile Views
+
+<div align="center">
+  <a href="#about-me-view"><img src="https://img.shields.io/badge/View-About%20Me-0284C7?style=for-the-badge&logo=readme&logoColor=white" alt="About Me View" /></a>
+  <a href="#timeline-view-beta"><img src="https://img.shields.io/badge/View-Timeline%20(Beta)-0EA5E9?style=for-the-badge&logo=clockify&logoColor=white" alt="Timeline View" /></a>
+</div>
+
+<div align="center">
+  Click a view tab above to jump to that section.
+</div>
+
+---
+
+## About Me View
 
 I am an AI Solutions Engineer and ML Engineer with an M.S. in Artificial Intelligence from Northeastern University.
 
@@ -35,6 +48,45 @@ I work on agentic AI systems, RAG pipelines, and production ML infrastructure th
 - Built AI systems tied to about `$300K` in closed revenue
 - Led Attorney Draw Automation contributing about `$120K` in revenue
 - Re-architected monolithic workflows into modular LLM agents, reducing development time by `75%`
+
+---
+
+## Timeline View (Beta)
+
+<div style="max-height: 560px; overflow-y: auto; border: 1px solid #1E293B; border-radius: 14px; padding: 14px; background: #0B1022;">
+  <div style="font-size: 14px; color: #94A3B8; margin-bottom: 10px;">Scrollable timeline of all public repositories (chronological)</div>
+
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2020-04-20</code><a href="https://github.com/Atharva-Pandkar/Android-Projects">Android-Projects</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2020-04-20</code><a href="https://github.com/Atharva-Pandkar/Projects-Done">Projects-Done</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2020-04-22</code><a href="https://github.com/Atharva-Pandkar/Competition-Problems-Solution">Competition-Problems-Solution</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2020-06-25</code><a href="https://github.com/Atharva-Pandkar/sentiment_analysis">sentiment_analysis</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2020-10-20</code><a href="https://github.com/Atharva-Pandkar/2048">2048</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2021-12-06</code><a href="https://github.com/Atharva-Pandkar/WeatherApp">WeatherApp</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2023-04-12</code><a href="https://github.com/Atharva-Pandkar/Atharva-Pandkar">Atharva-Pandkar</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2023-04-17</code><a href="https://github.com/Atharva-Pandkar/Hand-Gesture-Recognition">Hand-Gesture-Recognition</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2023-07-09</code><a href="https://github.com/Atharva-Pandkar/Atharva-Pandkar.github.io">Atharva-Pandkar.github.io</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2023-08-19</code><a href="https://github.com/Atharva-Pandkar/Body-Pose-Estimation">Body-Pose-Estimation</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2023-10-27</code><a href="https://github.com/Atharva-Pandkar/Google-Isolated-Sign-Language-Recognition">Google-Isolated-Sign-Language-Recognition</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2023-10-27</code><a href="https://github.com/Atharva-Pandkar/Calibaration---Augmented-Reality">Calibaration---Augmented-Reality</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2023-10-27</code><a href="https://github.com/Atharva-Pandkar/Real-Time-Filtering">Real-Time-Filtering</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2023-10-27</code><a href="https://github.com/Atharva-Pandkar/Content-Based-Image-Retrival">Content-Based-Image-Retrival</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2023-10-27</code><a href="https://github.com/Atharva-Pandkar/Real-Time-2D-Object-Recognition">Real-Time-2D-Object-Recognition</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2023-10-27</code><a href="https://github.com/Atharva-Pandkar/Recgnition-Using-Deep-Networks">Recgnition-Using-Deep-Networks</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2023-10-27</code><a href="https://github.com/Atharva-Pandkar/AI-Pacman-Agent">AI-Pacman-Agent</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2023-12-04</code><a href="https://github.com/Atharva-Pandkar/Credit-Risk-Prediction">Credit-Risk-Prediction</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2023-12-06</code><a href="https://github.com/Atharva-Pandkar/disentangling-disentanglement">disentangling-disentanglement</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2024-02-06</code><a href="https://github.com/Atharva-Pandkar/OReilly-Codes">OReilly-Codes</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2025-08-03</code><a href="https://github.com/Atharva-Pandkar/first-contributions">first-contributions</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2025-08-03</code><a href="https://github.com/Atharva-Pandkar/twenty">twenty</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2025-08-19</code><a href="https://github.com/Atharva-Pandkar/SQL-Query-Generator">SQL-Query-Generator</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2025-08-19</code><a href="https://github.com/Atharva-Pandkar/spoken-digit-classifier">spoken-digit-classifier</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2026-02-01</code><a href="https://github.com/Atharva-Pandkar/hive">hive</a></div>
+  <div style="display: flex; gap: 12px; align-items: center; margin: 8px 0;"><code style="color:#7DD3FC;">2026-02-08</code><a href="https://github.com/Atharva-Pandkar/ship-25-agents-workshop-starter">ship-25-agents-workshop-starter</a></div>
+</div>
+
+<div style="margin-top: 10px;">
+  Experimental SVG version: <a href="./timeline.svg">timeline.svg</a>
+</div>
 
 ---
 
