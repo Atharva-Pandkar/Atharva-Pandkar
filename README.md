@@ -25,9 +25,8 @@
   <a href="./TIMELINE.md"><img src="https://img.shields.io/badge/View-Timeline%20(Beta)-0EA5E9?style=for-the-badge&logo=clockify&logoColor=white" alt="Timeline View" /></a>
 </div>
 
-<div align="center">
-  `About Me` stays here. `Timeline` opens in a separate view file.
-</div>
+
+
 
 ---
 
