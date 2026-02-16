@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <a href="./GitHub-Profile-README.md">
+    <a href="./README.md">
       <img src="https://img.shields.io/badge/View-About%20Me-0284C7?style=for-the-badge&logo=readme&logoColor=white" alt="About Me View" />
     </a>
     <a href="./TIMELINE.md">
