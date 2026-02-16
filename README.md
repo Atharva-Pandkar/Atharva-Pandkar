@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,100:0EA5E9&height=190&section=header&text=Atharva%20Pandkar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Solutions%20Engineer%20%7C%20Machine%20Learning%20Engineer&descAlignY=60" alt="Header" />
 
-  <p>
-    <img src="https://github.com/Atharva-Pandkar.png?size=140" width="140" alt="Atharva Pandkar" />
-  </p>
+
 
   <p>
     <a href="https://atharva-pandkar.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
